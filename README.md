@@ -21,11 +21,6 @@
 <p align="left">
 <a href="https://twitter.com/nikunj__garg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nikunj__garg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikunj-garg-806bab190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nikunj-garg-806bab190" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nikunj-garg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="nikunj-garg" height="30" width="40" /></a>
-<a href="https://fb.com/nikunj.garg.7543" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nikunj.garg.7543" height="30" width="40" /></a>
-<a href="https://instagram.com/nikunj__garg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nikunj__garg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nikunjgarg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikunjgarg" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nikunjgarg2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="nikunjgarg2000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
