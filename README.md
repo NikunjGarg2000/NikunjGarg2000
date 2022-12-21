@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikunj Garg</h1>
-<h3 align="center">A passionate software developer. Worked on Android apps, websites in the past. Now-a-days, into blockchain</h3>
+<h3 align="center">A passionate software developer. Worked on Android apps, websites in the past. <br>Now-a-days, into blockchain to help in building Web 3.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikunjgarg2000&label=Profile%20views&color=0e75b6&style=flat" alt="nikunjgarg2000" /> </p>
 
@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/nikunj__garg" target="blank"><img src="https://img.shields.io/twitter/follow/nikunj__garg?logo=twitter&style=for-the-badge" alt="nikunj__garg" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development, DSA in C++**
+- 🌱 I’ m currently learning **Blockchain Development**
 
-- 👨‍💻 Some of my projects are available at [https://nikunjgarg.zyrosite.com/](https://nikunjgarg.zyrosite.com/)
-
-- 💬 Ask me about *Android Development*
+- 💬 Talk to me about *Android Development, Blockchain, Web 3*
 
 - 📫 Reach me at *nikunjgarg2000@gmail.com*
 
-- ⚡ Fun fact about me : **Super hungry**
+- ⚡ Fun fact about me : **I am not funny to everyone!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
