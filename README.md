@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikunj Garg</h1>
-<h3 align="center">A passionate android developer</h3>
+<h3 align="center">A passionate software developer. Worked on Android apps, websites in the past. Now-a-days, into blockchain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikunjgarg2000&label=Profile%20views&color=0e75b6&style=flat" alt="nikunjgarg2000" /> </p>
 
